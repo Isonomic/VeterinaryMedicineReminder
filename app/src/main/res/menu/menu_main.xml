@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.raywenderlich.petmedicinereminder.MainActivity">
+    <item
+        android:id="@+id/action_load_sample_data"
+        android:orderInCategory="100"
+        android:title="@string/action_load_sample_data"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_delete_data"
+        android:orderInCategory="200"
+        android:title="@string/action_delete_data"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_manage_channels"
+        android:orderInCategory="300"
+        android:title="@string/manage_channels"
+        app:showAsAction="never"/>
+</menu>

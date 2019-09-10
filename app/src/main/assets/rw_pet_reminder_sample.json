@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "name": "Olivia",
+    "type": "Cat",
+    "medicine": "Drontal",
+    "desc": "antiparasitic, treatment for roundworm",
+    "note": "give w/ food",
+    "hour": 9,
+    "minute": 40,
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "administered": false
+  },
+  {
+    "id": 1,
+    "name": "Bun",
+    "type": "Dog",
+    "medicine": "Metronidazole",
+    "desc": "treatment for bacterial infection",
+    "note": "",
+    "hour": 12,
+    "minute": 26,
+    "days": [
+      "Friday",
+      "Saturday"
+    ],
+    "administered": false
+  },
+  {
+    "id": 2,
+    "name": "Sampson",
+    "type": "Dog",
+    "medicine": "Ketoconazole",
+    "desc": "treatment for fungal infections",
+    "note": "back right leg",
+    "hour": 13,
+    "minute": 37,
+    "days": [
+      "Sunday",
+      "Tuesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "administered": false
+  },
+  {
+    "id": 3,
+    "name": "Roger",
+    "type": "Other",
+    "medicine": "Methylene blue",
+    "desc": "treat diseases such as ich, fungus, and velvet",
+    "note": "administer in isolation",
+    "hour": 8,
+    "minute": 17,
+    "days": [
+      "Sunday",
+      "Wednesday"
+    ],
+    "administered": false
+  }
+]

@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Pet Rx</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_load_sample_data">Load Sample Data</string>
+
+    <string name="snackbar_msg_sample_data_loaded">Loaded %d sample items&#8230;</string>
+
+    <string name="create_reminder">Create Reminder</string>
+    <string name="edit_reminder">Edit Reminder</string>
+    <string name="name">Name of pet</string>
+    <string name="type">Type</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="medicine_name">Medicine to administer</string>
+    <string name="description">Description for treatment&#8230;</string>
+    <string name="note">Additional notes&#8230;</string>
+    <string name="select_time">Select a time</string>
+    <string name="no_reminders">No Reminders</string>
+
+    <string name="days">Day(s)</string>
+    <string name="other">Other</string>
+    <string name="action_delete_data">Delete data</string>
+    <string name="undo">Undo</string>
+    <string name="administered">Administered</string>
+    <string name="time">Time</string>
+    <string name="action_delete_reminder">Delete Reminder</string>
+    <string name="unknown_error">Unknown error occured.</string>
+    <string name="nothing_to_delete">Nothing to delete</string>
+    <string name="name_required">Name is a required field.</string>
+    <string name="type_required">Type is a required field</string>
+    <string name="medicine_required">Medicine is a required field</string>
+    <string name="days_required">You must choose at least one day.</string>
+    <string name="time_required">Time is a required field</string>
+    <string name="save_failed">Reminder not created. Try again.</string>
+    <string name="update_failed">Reminder could not be updated.</string>
+    <string name="delete_failed">Reminder could not be deleted.</string>
+    <string name="sample_data_loaded_title">Data Imported</string>
+    <string name="sample_data_loaded_message">Inserted the sample data from the assets folder.</string>
+    <string name="sample_data_loaded_big_text">There are now 4 reminder items loaded into the database on your device.</string>
+    <string name="manage_channels">Manage Channels</string>
+    <string name="sample_data_deleted_title">Data Deleted</string>
+    <string name="sample_data_deleted_message">Application data has been removed.</string>
+    <string name="sample_data_deleted_big_text">The database records have been deleted for all the reminders.</string>
+    <string name="group_notification_for">This is the %s notification group.</string>
+    <string name="desc_required">Description is required.</string>
+    <string name="action_notify_administer_medication">com.raywenderlich.petmedecinereminder.action.ADMINISTER_MEDICATION</string>
+    <string name="created_reminder">Reminder created for %s.</string>
+    <string name="deleted_reminder">Deleted reminder for %s.</string>
+    <string name="updated_reminder">Updated reminder for %s.</string>
+    <string name="cant_administer_medicine">Can\'t administer medicine at this time.</string>
+    <string name="administer">Administer</string>
+    <string name="action_medicine_administered">com.raywenderlich.petmedicinereminder.action.MEDICINE_ADMINISTERED</string>
+    <string-array name="days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+</resources>
